@@ -8,7 +8,7 @@ A simple and classic Snake game recreated using **HTML5 Canvas** and **React.js*
 
 To run this project locally:
 
-### 1. Clone the repository
+### 1. Clone the repositoryhttps://github.com/michaelysmael10/Snake-App-Game/blob/main/README.md
 
 ```bash
 git clone https://github.com/your-username/Snake-App-Game.git
@@ -40,6 +40,7 @@ HTML5 Canvas – For rendering the snake and gameboard
 
 CSS / Tailwind (optional) – For styling
 
+```
 Snake-App-Game/
 ├── src/ 
 │   ├── App.tsx
@@ -48,3 +49,4 @@ Snake-App-Game/
 │   └── vite-env.d.ts
 ├── package.json
 └── README.md
+```
